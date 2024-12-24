@@ -1,0 +1,165 @@
+#top-cloud {
+    text-align: right;
+    padding-top: 40px;
+    display: block;
+}
+
+#bottom-cloud {
+    text-align: right;
+    display: block;
+    padding-top: 40px;
+}
+
+#outer-container {
+    background-color: rgb(228, 249, 245);
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+#middle-text {
+    text-align: center;
+    font-family: "Fleur de Leah", serif;
+    font-optical-sizing: auto;
+    font-size: 100px;
+    font-weight: regular;
+    color:rgb(91, 50, 130);
+    display: block;
+    padding-top: 40px;
+}
+
+#middle-text-2 {
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Doto;
+    color: rgb(0, 0, 0);
+    display: block;
+    padding-top: 13px;
+}
+
+#mountain-container {
+    text-align: center;
+}
+
+#profile-image {
+    padding-top: 100px;
+    text-align: center;
+}
+
+#greeting-text {
+    font-size: 50px;
+    font-family: "Pacifico", serif;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#greeting-text1 {
+    font-size: 50px;
+    font-family: "Pacifico", serif;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#about-message {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    font-family: "Hi Melody", serif;
+    font-size: 30px;
+}
+
+#message {
+    letter-spacing: 1px;
+    max-width: 660px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 40px;
+}
+
+.separator-line {
+    border: 10px dotted grey;
+    width: 8%;
+    border-bottom: none;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#skill-section {
+    padding-top: 80px;
+    display: grid;
+    grid-template-columns: 250px 280px;
+    grid-template-rows: 250px 250px;
+    margin-left: 120px;
+    margin-right: 120px;
+    justify-content: center;
+}
+
+
+.skill-image {
+    display: inline;
+}
+
+.skill-text {
+    padding-top: 20px;
+    display: inline;
+    font-size: 40px;
+    font-family: 'Hi Melody', serif;
+    line-height: 0.8
+}
+
+#touch-message {
+    display: flex;
+    justify-content: center;
+}
+
+#touch-message-text {
+    padding-top: 40px;
+    max-width: 660px;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: 'Hi Melody', serif;
+    font-size: 36px;
+}
+
+#button-container {
+    text-align: center;
+}
+
+#button {
+    background-color: #66bfb4;
+    width: 300px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-family: 'Major Mono Display', serif;
+}
+
+#footer-container {
+    background-color: #66bfbf;
+}
+
+#footer-flex-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    font-family: 'Major Mono Display', serif;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#footer-flex-container-2 {
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Major Mono Display', serif;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}
